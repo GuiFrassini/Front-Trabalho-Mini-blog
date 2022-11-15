@@ -1,0 +1,68 @@
+.center {
+ margin: 0 auto;
+float: none;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.fundo{
+    background-color: #87CEFA;
+}
+
+.centralizarbloco{
+    width:60%;
+    height: 720px;
+    background-color: white;
+    flex: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 100px;
+}
+
+a {
+	text-decoration: none;	
+}
+
+
+/*TODA AREA PUBLI*/
+#area-cabecalho {
+	background-color:#87CEFA ;
+	padding: 15px;
+	text-align: center;
+    border-radius: 10px;
+}
+
+#area-logo, #area-menu {
+	padding: 10px;
+
+}
+
+#area-menu {
+    color: black;
+}
+
+#area-principal {
+	width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+    
+}
+
+#area-postagens {
+	width: 900px;
+	float: left;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+h2{
+   color: #87CEFA; 
+}
+
+.pad{
+    margin-bottom: 10px;
+
+}
